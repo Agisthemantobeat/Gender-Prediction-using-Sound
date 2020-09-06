@@ -8,6 +8,11 @@ Fuzzy is a python library implementing common phonetic algorithms quickly. Typic
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
+
+```bash
+pip install fuzzy
+```
+
 ## Usage
 
 ```python
